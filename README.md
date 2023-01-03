@@ -4,11 +4,10 @@
 
 Developed a responsive website for Currency Conversion with Javascript where user can choose FROM & TO currency code with values to be convert.
 
-> **Technologies used:** HTML, CSS, JS
+> **Technologies used:** HTML, CSS, JS, Flagcdn - Fetch country icon using country code, ExchangeRate - Currency Converter API
 
 # Pseudo Code
 
- - Flagcdn is used to fetch country flag image icons.
  - Country list and its respective country code is stored as object.
  - To load flag using flagcdn, loop the countrylist object, and append it in image.
  - Select and loop the currency dropdown, From currency - USD; To currency - INR.
